@@ -4,7 +4,7 @@ Tired of thinking what code to write to train you brain and finger?
 Get confused with the fork, clone, pull request flow of GitHub?
 Want to make your contribution graph all green with comfortable and safe pull requests?
 
-** Then you can:
+Then you can:
 ** Fork this repo, Write any code you like, then Pull Request, you will know how GitHub works.
 
 I will receive any pull request, it's just for fun!
